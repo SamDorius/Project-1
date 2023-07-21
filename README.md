@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first project for dev mountain, for my project I created a tool for creating a pokemon team, you can add a pokemon and set its name, image, health, and moveset, you can also delete, and edit pokemon in your roster. The application stops adding pokemon when u click add once there is 6 pokemon on your team.
 
 Currently, two official plugins are available:
 
